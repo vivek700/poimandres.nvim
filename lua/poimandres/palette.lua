@@ -2,7 +2,7 @@
 local variants = {
   main = { -- main palette
     yellow = '#FFFAC2',
-    teal1 = '#5DE4C7',
+    teal1 = '#89DDFF',
     teal2 = '#5FB3A1',
     teal3 = '#42675A',
     blue1 = '#466b7a',
