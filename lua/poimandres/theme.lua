@@ -284,9 +284,9 @@ function M.get(config)
     cssTSError = { link = 'cssClassName' },
 
     -- vim.lsp.buf.document_highlight()
-    LspReferenceText = { bg = p.pink2 },
-    LspReferenceRead = { bg = p.pink2 },
-    LspReferenceWrite = { bg = p.pink2 },
+    LspReferenceText = { bg = p.pink4 },
+    LspReferenceRead = { bg = p.pink4 },
+    LspReferenceWrite = { bg = p.pink4 },
 
     -- lsp-highlight-codelens
     LspCodeLens = { fg = p.blueGray1 }, -- virtual text of code lens

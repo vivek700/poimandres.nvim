@@ -12,6 +12,7 @@ local variants = {
     pink1 = '#FAE4FC',
     pink2 = '#FCC5E9',
     pink3 = '#D0679D',
+    pink4 = '#662c4f',
     blueGray1 = '#A6ACCD',
     blueGray2 = '#767C9D',
     blueGray3 = '#506477',
