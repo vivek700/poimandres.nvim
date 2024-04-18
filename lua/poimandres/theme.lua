@@ -41,7 +41,7 @@ function M.get(config)
     FloatTitle = { fg = p.blueGray2 },
     FoldColumn = { fg = p.blueGray2 },
     Folded = { fg = p.text, bg = groups.panel },
-    IncSearch = { fg = p.background3, bg = p.blue2 },
+    IncSearch = { fg = p.background3, bg = p.yellow },
     LineNr = { fg = p.blueGray3 },
     MatchParen = { fg = p.background3, bg = p.blueGray3 },
     ModeMsg = { fg = p.blue3 },
